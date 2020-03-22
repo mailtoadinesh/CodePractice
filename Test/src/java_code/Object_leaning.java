@@ -10,9 +10,7 @@ public class Object_leaning {
 		
 		Object_leaning obj = new Object_leaning();
 		System.out.println(obj.a);
-		System.out.println(obj.b);
+		System.out.println(b);
 	}
 
 }
-
-
